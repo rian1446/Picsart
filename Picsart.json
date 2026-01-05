@@ -1,8 +1,8 @@
 {
-  "showDialog": false,
+  "showDialog": true,
   "expires": "01-10-2026",
-  "title": "UPDATE AVAILABLE",
-  "message": "Get the newest features and improvements.",
+  "title": "! SILAHKAN UPDATE !",
+  "message": "Update ke versi terbaru..",
   "UpdateButtonText": "DOWNLOAD",
   "UpdateButtonUrl": "https://t.me/ZenxModzOfficiall"
 }
